@@ -55,6 +55,7 @@ body{
     background-color: var(--background-color);
     padding:1em;
     justify-items: center;
+    text-align:justify;
 }
 
 #einstein-img img{
